@@ -1,15 +1,15 @@
+<img src="/img/cap-objectoop.png" alt="OBJECTOOP" title="OBJECTOOP">
+
 <b>ENGLISH</b>
 
-Objects made in Ruby to practice syntax and object-oriented programming
+- Objectoop is the <a href="https://github.com/josuehoenicka">Josue Hoenicka's</a> first project on Ruby
+-
+-
 
 <b>SPANISH</b>
 
-Objectos hechos en Ruby para practicar la sintansis y la programacion orientada para objectos
+- Objectoop es el primer proyecto de <a href="https://github.com/josuehoenicka">Josue Hoenicka</a> con Ruby
+- Objectoop son archivos rb de diversas tematicas que contiene objetos con polimorfismo y herencia 
+- Dejo mi primer proyecto abierto para que cualquier persona pueda leerlo y aprender diversos temas en el lenguaje de Ruby, por ejemplo, que es un clase, superclase, metodo, getter, setter, etc
 
-<b>PORTUGUESE</b>
 
-Objetos feitos em Ruby pra praticar a sintaxe e a programacao orientada pro objetos
-
-<b>GERMAN</b>
-
-In Ruby erstellte Objekte zum Üben von Syntax und objektorientierter Programmierung
